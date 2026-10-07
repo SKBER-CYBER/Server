@@ -1,1 +1,24 @@
-
+{
+  "FREE-96FA3649-D024D984": {
+    "plan": "free",
+    "days": 10,
+    "created_at": 1791405335,
+    "expire_ts": 1792269335,
+    "status": "revoked",
+    "note": "tnk",
+    "approved_by": null,
+    "approved_at": null,
+    "hwid": null,
+    "revoked_at": 1791405481
+  },
+  "FREE-E723D72C-C99088DF": {
+    "plan": "free",
+    "days": 10,
+    "created_at": 1791405876,
+    "expire_ts": 1792269876,
+    "status": "active",
+    "note": "i love you",
+    "approved_by": null,
+    "approved_at": null,
+    "hwid": null
+  }
