@@ -58,5 +58,16 @@
     "approved_at": null,
     "hwid": null,
     "revoked_at": 1791411239
+  },
+  "PAID-73EA7C0B-75A89BD4": {
+    "plan": "paid",
+    "days": 10,
+    "created_at": 1791411454,
+    "expire_ts": 1792275454,
+    "status": "active",
+    "note": "jahid",
+    "approved_by": null,
+    "approved_at": null,
+    "hwid": null
   }
 }
