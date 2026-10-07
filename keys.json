@@ -40,21 +40,23 @@
     "days": 10,
     "created_at": 1791406934,
     "expire_ts": 1792270934,
-    "status": "active",
+    "status": "revoked",
     "note": "10",
     "approved_by": null,
     "approved_at": null,
-    "hwid": null
+    "hwid": null,
+    "revoked_at": 1791411233
   },
   "FREE-120401BA-EAFEEF74": {
     "plan": "free",
     "days": 10,
     "created_at": 1791407737,
     "expire_ts": 1792271737,
-    "status": "active",
+    "status": "revoked",
     "note": "1",
     "approved_by": null,
     "approved_at": null,
-    "hwid": null
+    "hwid": null,
+    "revoked_at": 1791411239
   }
 }
